@@ -33,6 +33,6 @@ Weather App is a simple web application designed to provide users with real-time
 Contributions are welcome! Feel free to open issues or pull requests to suggest improvements or report bugs.
 
 ## Contact
-For any inquiries or feedback, please contactt.k.d.dey2033929837@gmail.com.
+For any inquiries or feedback, please contact t.k.d.dey2033929837@gmail.com.
 
 Thank you for using the Weather App! We hope you find it useful and informative.
