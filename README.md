@@ -1,5 +1,8 @@
+
 ## Introduction
 Weather App is a simple web application designed to provide users with real-time weather information for a given location. It utilizes HTML, CSS, and JavaScript to create an interactive and visually appealing interface. The app fetches weather data from the WeatherAPI, which offers reliable and accurate weather forecasts.
+
+[Live Demo](https://weather-app-sigma-ochre.vercel.app/)
 
 ## Features
 - **Current Weather Display:** Provides current weather conditions including temperature, humidity, wind speed, and weather description.
@@ -9,7 +12,7 @@ Weather App is a simple web application designed to provide users with real-time
 
 ## Installation
 1. Clone the repository to your local machine:
-
+   
 2. Navigate to the project directory:
 
 3. Open the `index.html` file in your preferred web browser.
@@ -36,3 +39,7 @@ Contributions are welcome! Feel free to open issues or pull requests to suggest 
 For any inquiries or feedback, please contact t.k.d.dey2033929837@gmail.com.
 
 Thank you for using the Weather App! We hope you find it useful and informative.
+
+---
+
+Let me know if you need further changes!
