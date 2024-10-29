@@ -1,6 +1,4 @@
-Here's a polished README for your Weather App repository:
 
----
 
 # Weather App 🌦️
 
